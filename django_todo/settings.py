@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-d6ft5g#6$fk9d0wscmeds
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-seanl80-cifsfhellodjang-8r10vyoivna.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-seanl80-cifsfhellodjang-8r10vyoivna.ws.codeinstitute-ide.net',  'django-todo-app-sl-741593d6c308.herokuapp.com']
 
 
 # Application definition
